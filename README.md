@@ -6,9 +6,9 @@ HTML & CSS is used with bootstrap for building responsive UI
 ## Library Used
 Bootstrap 5.3.3
 
-### Third Party links
-Font Awesome
+### Third Party links used
+Font Awesome: https://fontawesome.com/
 #
-Google Font
+Google Font : https://fonts.google.com/
 #
-Ionicons
+Ionicons :https://ionic.io/ionicons
